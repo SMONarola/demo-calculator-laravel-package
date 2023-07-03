@@ -1,0 +1,16 @@
+{
+    "name": "smo/calculator",
+    "description": "Demo : Laravel package for calculator app",
+    "autoload": {
+        "psr-4": {
+            "Smo\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "smo",
+            "email": "smo@narola.email"
+        }
+    ],
+    "require": {}
+}
