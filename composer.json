@@ -12,5 +12,7 @@
             "email": "smo@narola.email"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.1.1",
+    }
 }
