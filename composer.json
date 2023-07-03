@@ -12,7 +12,7 @@
             "email": "smo@narola.email"
         }
     ],
-    "minimum-stability": "dev-main",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=8.1.1"
     }
